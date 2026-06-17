@@ -1,6 +1,6 @@
 # Cipher-OSS
 
-**Security tools shouldn't cost $50k a year.**
+**Building open source security tools to fill the gaps.**
 
 ---
 
