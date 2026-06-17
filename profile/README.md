@@ -17,7 +17,8 @@ The tools here won't have every feature a commercial product does. They will wor
 | | |
 |--|--|
 | [**cipher-shield**](https://github.com/Cipher-OSS/cipher-shield) | AI-powered package firewall for npm and PyPI. Blocks malicious packages before they install. |
-| **socket-oss** | Supply chain security — dependency analysis, maintainer risk, install-time behavior. *(in development)* |
+| **cipher-guard** | Automatically scans pull requests for vulnerabilities, leaked secrets, and vulnerable dependencies — then explains every finding and suggests fixes using Claude AI. |
+| **ai-gateway** | Self-hosted AI governance platform. Monitors AI tool usage across employee endpoints, applies per-vendor policy, and surfaces events in a live security dashboard. |
 
 ---
 
